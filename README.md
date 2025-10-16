@@ -36,9 +36,11 @@ File: `ab_testing_simple.csv`
 
 ## 📈 Visualization
 A bar chart comparing mean purchases is saved as `ab_result.png`.
+![](ab_result.png)
 
 ## 💻 How to Run
 1. Clone or download this repository  
 2. Install requirements:  
    ```bash
    pip install pandas scipy matplotlib
+
